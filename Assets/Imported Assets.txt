@@ -1,0 +1,7 @@
+Kitchen assets from Unity Asset Unlocks- Kitchen
+Bedroom assets from Unity Asset Unlocks- Bedroom
+Other assets(like footstep sounds, player armature, etc) are from the Creative Core- Prototyping Mission Assets
+
+MUSIC
+Soft wind sound from Freespund -  Florian Reichelt -  https://freesound.org/people/florianreichelt/sounds/459977/
+Bedside music from Freesound - Erokia - https://freesound.org/people/Erokia/sounds/183881/ . The material was not modified. License: https://creativecommons.org/licenses/by/4.0/
